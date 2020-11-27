@@ -1,0 +1,5 @@
+name: GodModePatch
+version: ${project.version}
+main: org.l2x9.godmodepatch.GodModePatch
+authors: [254n_m]
+description: Fixes the invis godmode done with wwe
